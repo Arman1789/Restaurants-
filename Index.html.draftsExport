@@ -1,0 +1,19 @@
+[
+  {
+    "languageGrammar" : "Markdown",
+    "created_at" : "2024-07-30T12:35:49Z",
+    "content" : "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Unsere Restaurants<\/title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            background-color: #f4f4f9;\n            color: #333;\n        }\n        header {\n            background-color: #4CAF50;\n            color: white;\n            padding: 1em;\n            width: 100%;\n            text-align: center;\n        }\n        .container {\n            display: flex;\n            justify-content: space-around;\n            flex-wrap: wrap;\n            padding: 2em;\n        }\n        .restaurant {\n            background-color: white;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            width: 300px;\n            text-align: center;\n            margin: 1em;\n            padding: 1em;\n        }\n        .restaurant img {\n            max-width: 100%;\n            border-radius: 8px;\n        }\n        .restaurant h2 {\n            margin-top: 0.5em;\n        }\n        .restaurant a {\n            display: inline-block;\n            margin-top: 1em;\n            padding: 0.5em 1em;\n            background-color: #4CAF50;\n            color: white;\n            text-decoration: none;\n            border-radius: 5px;\n            transition: background-color 0.3s;\n        }\n        .restaurant a:hover {\n            background-color: #45a049;\n        }\n    <\/style>\n<\/head>\n<body>\n    <header>\n        <h1>Unsere Restaurants<\/h1>\n    <\/header>\n    <div class=\"container\">\n        <div class=\"restaurant\">\n            <img src=\"http:\/\/shakyshake.de\/logo.png\" alt=\"Shaky Shake Logo\">\n            <h2>Shaky Shake<\/h2>\n            <p><a href=\"http:\/\/shakyshake.de\">Zum Menü<\/a><\/p>\n        <\/div>\n        <div class=\"restaurant\">\n            <img src=\"http:\/\/help-pizza.de\/logo.png\" alt=\"Help Pizza Logo\">\n            <h2>Help Pizza<\/h2>\n            <p><a href=\"http:\/\/help-pizza.de\">Zum Menü<\/a><\/p>\n        <\/div>\n    <\/div>\n<\/body>\n<\/html>",
+    "modified_latitude" : 0,
+    "tags" : [
+
+    ],
+    "uuid" : "EAD5E634-5911-425D-B6A3-35580270DB34",
+    "modified_longitude" : 0,
+    "flagged" : false,
+    "modified_at" : "2024-07-30T12:36:29Z",
+    "accessed_at" : "2024-07-30T12:35:49Z",
+    "created_longitude" : 0,
+    "folder" : 0,
+    "created_latitude" : 0
+  }
+]
